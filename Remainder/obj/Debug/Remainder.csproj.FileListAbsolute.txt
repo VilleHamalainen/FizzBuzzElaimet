@@ -1,0 +1,14 @@
+C:\Users\hamalvil\source\repos\Remainder\Remainder\obj\Debug\Remainder.csprojAssemblyReference.cache
+C:\Users\hamalvil\source\repos\Remainder\Remainder\obj\Debug\Remainder.csproj.CoreCompileInputs.cache
+C:\Users\hamalvil\source\repos\Remainder\Remainder\bin\Debug\Remainder.exe.config
+C:\Users\hamalvil\source\repos\Remainder\Remainder\bin\Debug\Remainder.exe
+C:\Users\hamalvil\source\repos\Remainder\Remainder\bin\Debug\Remainder.pdb
+C:\Users\hamalvil\source\repos\Remainder\Remainder\obj\Debug\Remainder.exe
+C:\Users\hamalvil\source\repos\Remainder\Remainder\obj\Debug\Remainder.pdb
+C:\Users\hamalvil\source\repos\OliotKissaKoiraPapukaijaHevonen\Remainder\bin\Debug\Remainder.exe.config
+C:\Users\hamalvil\source\repos\OliotKissaKoiraPapukaijaHevonen\Remainder\bin\Debug\Remainder.exe
+C:\Users\hamalvil\source\repos\OliotKissaKoiraPapukaijaHevonen\Remainder\bin\Debug\Remainder.pdb
+C:\Users\hamalvil\source\repos\OliotKissaKoiraPapukaijaHevonen\Remainder\obj\Debug\Remainder.csprojAssemblyReference.cache
+C:\Users\hamalvil\source\repos\OliotKissaKoiraPapukaijaHevonen\Remainder\obj\Debug\Remainder.csproj.CoreCompileInputs.cache
+C:\Users\hamalvil\source\repos\OliotKissaKoiraPapukaijaHevonen\Remainder\obj\Debug\Remainder.exe
+C:\Users\hamalvil\source\repos\OliotKissaKoiraPapukaijaHevonen\Remainder\obj\Debug\Remainder.pdb
